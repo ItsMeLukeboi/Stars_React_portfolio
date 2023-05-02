@@ -1,7 +1,7 @@
 import React from "react";
 import FluidGrid from 'react-fluid-grid'
 import Element from "./element.js"
-import Omakuva from "./omakuva.js"
+
 
 
 const Home = () => {

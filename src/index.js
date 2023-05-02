@@ -11,7 +11,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout.js";
 import Home from "./pages/home.js";
 import Cv from "./pages/cv.js";
-import Contact from "./page/contact.js";
+import Contact from "./pages/contact.js";
 import NoPage from "./pages/NoPage.js";
 
 
