@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stars_React_portfolio/static/css/main.f59d5da3.css",
+    "main.js": "/Stars_React_portfolio/static/js/main.1544d1d7.js",
+    "index.html": "/Stars_React_portfolio/index.html",
+    "main.f59d5da3.css.map": "/Stars_React_portfolio/static/css/main.f59d5da3.css.map",
+    "main.1544d1d7.js.map": "/Stars_React_portfolio/static/js/main.1544d1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59d5da3.css",
+    "static/js/main.1544d1d7.js"
+  ]
+}
